@@ -1,0 +1,9 @@
+{
+  "name": "clone",
+  "description": "Component to clone Objects",
+  "version": "0.0.1",
+  "dependencies": {},
+  "scripts": [
+    "index.js"
+  ]
+}
